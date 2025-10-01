@@ -1,14 +1,4 @@
 {
-  "ArrestMod": [
-    "TerraCorsa",
-    "AcRp"
-  ],
-  "Test": [
-    "Test",
-    "Test"
-  ],
-  "Test": [
-    "Test",
-    "Test"
-  ]
+  ".TerraCorsa": ["ArrestMod, ESHud"]
+  "AcRP": ["VelocityVoice"]
 }
