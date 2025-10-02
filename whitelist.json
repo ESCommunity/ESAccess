@@ -1,4 +1,4 @@
 {
-  ".TerraCorsa": ["arrestmod", "eshud"],
-  "AcRP": ["velocityvoice"]
+  ".TerraCorsa": ["arrestmod", "eshud", "velocityradio"],
+  "AcRP": ["arrestmod", "velocityvoice"]
 }
